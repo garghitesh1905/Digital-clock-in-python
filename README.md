@@ -13,8 +13,8 @@ Firstly download or clone this repo and then move into the project folder as sho
 
 ```bash
 $-> git clone https://github.com/garghitesh1905/Digital-clock-in-python
-$-> cd Digital-clock-in-Python
-$ Digital-clock-in-Python -> python app.py
+$-> cd Digital-clock-in-python
+$ Digital-clock-in-python -> python app.py
 ```
 
 Output
